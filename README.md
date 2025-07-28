@@ -26,13 +26,24 @@ Segmenter les vins selon leurs caractéristiques chimiques afin :
 
 ---
 
-## 💡 Valeur ajoutée
-Ce projet illustre comment les techniques de **clustering** peuvent soutenir la **filière viticole** (*agriculture*) et améliorer la **prise de décision commerciale** (*marketing*).
+## 📊 Résultats
+L’analyse a permis d’identifier **trois groupes distincts** de vins :
+
+- **Cluster 0 – Vins frais et élégants**  
+  Vins légers, modérément acides, avec une structure minérale et fruitée.  
+  Profil équilibré et facile à boire, idéal pour les amateurs de vins frais et accessibles.  
+
+- **Cluster 1 – Vins dynamiques et fruités**  
+  Vins légèrement plus alcoolisés, avec une acidité modérée et un profil aromatique vif et fruité.  
+  Adapté aux consommateurs recherchant des vins jeunes, expressifs et agréables.  
+
+- **Cluster 2 – Vins puissants et complexes**  
+  Vins à structure tannique marquée, plus riches en proline, puissants et complexes.  
+  Parfaits pour les amateurs de vins robustes et évolutifs.  
+
+Cette segmentation permet une **meilleure compréhension des productions**, facilite l’**orientation des consommateurs** selon leurs préférences et offre des **pistes pour optimiser la commercialisation**.
 
 ---
 
-## 📈 Résultats
-Les résultats mettent en évidence plusieurs **profils de vins** différenciés par leurs caractéristiques chimiques, offrant ainsi des pistes pour :
-- améliorer les **processus de vinification**  
-- segmenter les **marchés cibles** en fonction des préférences  
-- orienter les **stratégies commerciales** et la **distribution**
+## 💡 Valeur ajoutée
+Ce projet illustre comment les techniques de **clustering** peuvent soutenir la **filière viticole** (*agriculture*) et améliorer la **prise de décision commerciale** (*marketing*).
